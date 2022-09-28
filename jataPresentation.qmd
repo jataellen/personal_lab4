@@ -1,0 +1,36 @@
+---
+title: "Jata's RStudio_Presentation"
+format: revealjs
+editor: visual
+---
+
+## Lab 4: Question 10
+
+I'm making a Powerpoint in Quarto. At this very moment! Can you believe it?
+
+## About Me
+
+My name is **Jata**
+
+-   My favorite word: Bihebdomadaire
+
+-   My favorite math equation:
+
+    ```{r}
+    x = 87/34 * 2 **2
+    print(x)
+    ```
+
+## Code
+
+Here's some code for you to look at, and grade :( .
+
+```{r}
+for (i in (1:10)){
+  print(i)
+}
+```
+
+## Finish Line
+
+Are we done already? Whew that was a *blast*. TTYL!
